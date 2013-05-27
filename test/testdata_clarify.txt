@@ -1,0 +1,13 @@
+This summarizes the current test cases (12):
+#0 Passing through BSP only, no scintillator.
+#1 Passing through FSP only, no scintillator.
+#2 Passing through FSP and BSP, no scintillator.
+#3 Passing through FSP, scintillator and BSP.
+#4 Implant in scintillator 40.
+#5 Decay in scintillator 10, no detected gamma.
+#6 Decay in scintillator 40, no detected gamma.
+#7 Implant in scintillator 20.
+#8 Implant in scintillator 10.
+#9 Implant in scintillator 20.
+#10 Decay in scintillator 10, detected gamma. ->coincidence.
+#11 Decay in scintillator 20, detected gamma. ->double implant, no coincidence, also causes non-association of course.
