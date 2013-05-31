@@ -1,0 +1,6 @@
+This is MDCAS (Mixed Data Coincidence Analysis Tool), a program intended to analyze the output from the PIBIDS (Precalibrated Ion Beam Identification Detector Simulation) software. It is written in C++.
+
+The documentation is currently a bit scattered. The documentation is generated from the source code using Doxygen. An older version can be found at http://fy.chalmers.se/subatom/kand/2012/precalib/MDCAS/. The latest version can be generated from the source code here, an online version should hopefully be availible within short.
+
+
+Created and maintained by Rikard Lundmark.
